@@ -1,0 +1,4 @@
+pikepdf
+colorama
+rich
+tqdm
